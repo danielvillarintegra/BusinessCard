@@ -12,7 +12,7 @@ O bootcamp Inter Android Developer faz parte do programa Órbi Academy Techboost
 
 - Link para o projeto modificado: 
 
-  https://github.com/danielvillarintegra
+  https://github.com/danielvillarintegra/BusinessCard
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Villar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/daniel-villar-326477212)](linkedin.com/in/daniel-villar-326477212)   [![Gmail Badge](https://img.shields.io/badge/-danielvillarintegra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielvillarintegra@gmail.com)](mailto:danielvillarintegra@gmail.com)
 
